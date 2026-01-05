@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello there 👋
+
+<p>I am a computer science student based in <b>Italy</b>, currently learning C at school.</p>
+<p>I have worked on multiple web-based projects, exploring frameworks such as <b>React</b>, <b>FastAPI</b> and <b>Node.js</b>.</p>
+
+<p>Always available on Telegram at <b>reactive_lemur</b></p>
 
 <!--
 **reactivelemur34/reactivelemur34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
